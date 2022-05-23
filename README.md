@@ -46,13 +46,3 @@ docker run -it -p8080:8080 recipes-api:0.0.1-SNAPSHOT
 
 you can open swagger documentation page:
 http://localhost:8080/api/swagger-ui.html
-
-Connection-specific DNS Suffix  . : home
-IPv6 Address. . . . . . . . . . . : 2001:1c04:2b32:4200:d4bc:c467:23b2:46ba
-Temporary IPv6 Address. . . . . . : 2001:1c04:2b32:4200:6921:9576:dc9a:2ac6
-Temporary IPv6 Address. . . . . . : 2001:1c04:2b32:4200:f1a6:3fa4:55f7:f99c
-Link-local IPv6 Address . . . . . : fe80::d4bc:c467:23b2:46ba%13
-IPv4 Address. . . . . . . . . . . : 192.168.178.59
-Subnet Mask . . . . . . . . . . . : 255.255.255.0
-Default Gateway . . . . . . . . . : fe80::6a02:b8ff:fe86:bdb2%13
-192.168.178.1
